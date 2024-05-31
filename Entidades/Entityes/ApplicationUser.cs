@@ -10,7 +10,7 @@ namespace Entityes.Entityes
         public int Age { get; set; }
 
         [Column("USR_PHONE")]
-        public string phone { get; set; }
+        public string Phone { get; set; }
 
         [Column("USR_TYPE")]
         public TypeUser? Type { get; set; }
