@@ -1,5 +1,0 @@
-C:\Users\munir.marques\Dev\Others\API_DDD\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
-C:\Users\munir.marques\Dev\Others\API_DDD\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\munir.marques\Dev\Others\API_DDD\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
-C:\Users\munir.marques\Dev\Others\API_DDD\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
-C:\Users\munir.marques\Dev\Others\API_DDD\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache

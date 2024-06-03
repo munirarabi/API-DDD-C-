@@ -1,7 +1,0 @@
-C:\Users\munir.marques\Dev\Others\API_DDD\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
-C:\Users\munir.marques\Dev\Others\API_DDD\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\munir.marques\Dev\Others\API_DDD\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
-C:\Users\munir.marques\Dev\Others\API_DDD\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
-C:\Users\munir.marques\Dev\Others\API_DDD\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\munir.marques\Dev\Others\API_DDD\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\munir.marques\Dev\Others\API_DDD\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache

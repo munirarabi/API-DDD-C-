@@ -1,5 +1,0 @@
-C:\Users\munir.marques\Dev\Others\API_DDD\Entidades\obj\Debug\net6.0\Entityes.csproj.AssemblyReference.cache
-C:\Users\munir.marques\Dev\Others\API_DDD\Entidades\obj\Debug\net6.0\Entityes.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\munir.marques\Dev\Others\API_DDD\Entidades\obj\Debug\net6.0\Entityes.AssemblyInfoInputs.cache
-C:\Users\munir.marques\Dev\Others\API_DDD\Entidades\obj\Debug\net6.0\Entityes.AssemblyInfo.cs
-C:\Users\munir.marques\Dev\Others\API_DDD\Entidades\obj\Debug\net6.0\Entityes.csproj.CoreCompileInputs.cache
